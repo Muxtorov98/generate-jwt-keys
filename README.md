@@ -90,7 +90,7 @@ chmod +x generate-jwt-keys.sh
 ./generate-jwt-keys.sh
 ```
 
-## Ahamiyatli joylari:
+## Ahamiyatli joyi
     .env ichida shunday qatorday bo‘lishi kerak:
 
 ```env
