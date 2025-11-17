@@ -91,7 +91,7 @@ chmod +x generate-jwt-keys.sh
 ```
 
 ## Ahamiyatli joylari:
-	- .env ichida shunday qatorday bo‘lishi kerak:
+    .env ichida shunday qatorday bo‘lishi kerak:
 
 ```env
 JWT_PASSPHRASE=nimadur_maxfiy_parol
